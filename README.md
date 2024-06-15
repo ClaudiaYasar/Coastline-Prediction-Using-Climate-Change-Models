@@ -1,7 +1,7 @@
 # Intelligent Control Systems by Asst. Prof. Dr. Claudia F. Yaşar
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
-# This is a work done with the help of Berke Miraç and Koray Muradoğlu 
+# This is a work done using a modified version of the work by Berke Miraç and Koray Muradoğlu  https://www.mathworks.com/matlabcentral/fileexchange/129014-intelligent-control-systems-coastline-prediction
 
 # Coastline-Prediction-Using-Climate-Change-Models
 In this live script, we explore "Coastline Prediction Using Climate Change Models" by analyzing landmarks and world maps, creating a correlation matrix, and applying curve fitting techniques including linear and polynomial fittings, along with evaluating the results. We also utilize the Regression Learner and Classification Learner for comprehensive model training and prediction.
