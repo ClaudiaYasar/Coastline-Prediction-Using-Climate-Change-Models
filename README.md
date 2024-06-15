@@ -4,7 +4,7 @@ This repository contains the curriculum materials used for the Intelligent Contr
 # This is a work done using a modified version of the work by Berke Miraç and Koray Muradoğlu  
 https://www.mathworks.com/matlabcentral/fileexchange/129014-intelligent-control-systems-coastline-prediction
 
-# Coastline-Prediction-Using-Climate-Change-Models
+# Coastline Prediction Using Climate Change Models
 In this live script, we explore "Coastline Prediction Using Climate Change Models" by analyzing landmarks and world maps, creating a correlation matrix, and applying curve fitting techniques including linear and polynomial fittings, along with evaluating the results. We also utilize the Regression Learner for model prediction.
 
 ![image](https://github.com/ClaudiaYasar/Coastline-Prediction-Using-Climate-Change-Models/assets/132692602/efe2febb-15ca-42ce-8d15-83220391a81f)
