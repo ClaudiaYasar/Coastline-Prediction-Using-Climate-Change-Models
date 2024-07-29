@@ -7,7 +7,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/129014-intelligent-control-
 # Coastline Prediction Using Climate Change Models
 In this live script, we explore "Coastline Prediction Using Climate Change Models" by analyzing landmarks and world maps, creating a correlation matrix, and applying curve fitting techniques including linear and polynomial fittings, along with evaluating the results. We also utilize the Regression Learner for model prediction.
 
-<img src="dc_motor_control.jpg" width="900">
+<img src="Sea_level.jpg" width="900">
 
 # Acknowledgements
 I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, Class 2022 and 2023, whose dedication and hard work made this project possible. I am also deeply thankful to our Control Tech LAB team, Doctors Marco Rossi, and Melda Ulusoy for their invaluable contributions.
